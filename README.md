@@ -392,7 +392,7 @@ Impulse responses were recorded at 36 azimuth angles for 3 elevation angles for 
 The azimuth angle was discretized by 10 degrees, and hence 36 azimuth angles starting from 0 degrees were collected. The elevation angle was set to -20, 0, 20 degrees.
 Sound events were collected 20 samples for the 12 sound events in an anechoic room.
 The sound events are organ, piano, toy train, toy gun shot, metallophone, bicycle bell, security buzzer, shaker, handclap, woodblock , shaking bell, hit drum.
-The images of recording environments and devices are shown in [details.pdf](hoge).
+The images of recording environments and devices are shown in [details.pdf](./DETAILS.pdf).
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/17283799/153994956-ac340a6b-baad-498b-a570-8ba0de5b017e.png" alt="wav abst" >
@@ -465,7 +465,7 @@ wav = tmp_wav[ch_list, :]
 
 
 ## License
-All files and folders in ``Earphone type dataset``, ``Mounting type dataset``, ``FOA format dataset``, ``Small wearable SELD dataset``, and this repository are under this [license](license.pdf).
+All files and folders in ``Earphone type dataset``, ``Mounting type dataset``, ``FOA format dataset``, ``Small wearable SELD dataset``, and this repository are under this [license](./LISENCE.pdf).
 
 ## Authors and Contact
         
