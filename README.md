@@ -465,7 +465,7 @@ wav = tmp_wav[ch_list, :]
 
 
 ## License
-All files and folders in ``Earphone type dataset``, ``Mounting type dataset``, ``FOA format dataset``, ``Small wearable SELD dataset``, and this repository are under this [license](./LISENCE.pdf).
+All files and folders in ``Earphone type dataset``, ``Mounting type dataset``, ``FOA format dataset``, ``Small wearable SELD dataset``, and this repository are under this [license](./LICENSE.pdf).
 
 ## Authors and Contact
         
