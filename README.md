@@ -479,9 +479,9 @@ All files and folders in ``Earphone type dataset``, ``Mounting type dataset``, `
 
 If you'd like to cite this work, you may use the following. 
 
-> Kento Nagatomo, Masahiro Yasuda, Kohei Yatabe, Shoichiro Saito, Yasuhiro Oikawa, “Wearable SELD dataset: Dataset for sound event localization and detection using wearable devices around head,” inIEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), 2022.
+> Kento Nagatomo, Masahiro Yasuda, Kohei Yatabe, Shoichiro Saito, Yasuhiro Oikawa, “Wearable SELD dataset: Dataset for sound event localization and detection using wearable devices around head,” in IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), 2022.
 
 
 ## Link
 
-Paper: [arXiv](hoge)
+Paper: [arXiv](https://arxiv.org/abs/2202.08458)
